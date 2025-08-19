@@ -66,7 +66,7 @@ To run this project locally, follow these steps:
 1. Clone the repository to your local machine using this command:
 
    ```shell
-   git clone https://github.com/rajatrawal/ipl-win-predictor.git
+   git clone https://github.com/vikshittindwan/ipl-win-predictor.git
    ```
 
 2. Navigate to the project directory:
